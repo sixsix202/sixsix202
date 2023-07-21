@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**sixsix202/sixsix202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🏫 Student from FPT University
@@ -11,7 +8,7 @@ Here are some ideas to get you started:
 - 🎵 Like Arts, Music 
 - 🎮 Noob gamer :Just play for relaxing
 - ♥ Relationship: ... LOVE ...
--->
+
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/manhnd66) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://bom.so/rOW1qC) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/fj8LF80) 
